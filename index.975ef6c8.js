@@ -27090,12 +27090,12 @@ var _stylesCss = require("./styles.css");
     name: "Osama Malik",
     title: "Web Designer & Content Creator",
     email: "osamamaliktoru.com",
-    gitHub: "https://github.com/Osmi-Bytes",
-    instagram: "https://instagram.com/osmibytes",
-    linkedIn: "https://linkedin.com/in/osmibytes",
-    medium: "https://medium.com/@osmibytes",
-    twitter: "https://x.com/osmibytes",
-    youTube: "https://youtube.com/@osmibytes"
+    gitHub: "Osmi-Bytes",
+    instagram: "osmibytes",
+    linkedIn: "osmibytes",
+    medium: "@osmibytes",
+    twitter: "osmibytes",
+    youTube: "@osmibytes"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -28715,7 +28715,7 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/Osmi5.jpg":"feZOv"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/Osmi5.jpg":"feZOv","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"feZOv":[function(require,module,exports) {
@@ -28890,7 +28890,7 @@ $RefreshReg$(_c, "Portfolio");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/design desk.jpg":"ftJeQ"}],"ftJeQ":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/design desk.jpg":"ftJeQ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"ftJeQ":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "design desk.3308ccde.jpg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequire6158")
