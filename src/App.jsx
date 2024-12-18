@@ -27,12 +27,12 @@ const siteProps = {
   name: "Osama Malik",
   title: "Web Designer & Content Creator",
   email: "osamamaliktoru.com",
-  gitHub: "https://github.com/Osmi-Bytes",
-  instagram: "https://instagram.com/osmibytes",
-  linkedIn: "https://linkedin.com/in/osmibytes",
-  medium: "https://medium.com/@osmibytes",
-  twitter: "https://x.com/osmibytes",
-  youTube: "https://youtube.com/@osmibytes",
+  gitHub: "Osmi-Bytes",
+  instagram: "osmibytes",
+  linkedIn: "osmibytes",
+  medium: "@osmibytes",
+  twitter: "osmibytes",
+  youTube: "@osmibytes",
 };
 
 const primaryColor = "#4E567E";
