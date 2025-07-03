@@ -31,28 +31,40 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "React Portfolio Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
-  },
-  {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "A responsive portfolio website built with React and deployed to GitHub Pages. Features modern design, smooth animations, and showcases my projects and skills.",
     url: "https://github.com/Osmi-Bytes/React_Portfolio",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Task Management App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A full-stack task management application with user authentication, real-time updates, and collaborative features. Built with React, Node.js, and MongoDB.",
+    url: "https://github.com/Osmi-Bytes/TaskManager",
+  },
+  {
+    title: "Weather Dashboard",
+    description:
+      "An interactive weather dashboard that provides real-time weather data and forecasts. Features location search, favorites, and responsive design using React and OpenWeather API.",
+    url: "https://github.com/Osmi-Bytes/WeatherDashboard",
+  },
+  {
+    title: "E-Commerce Platform",
+    description:
+      "A complete e-commerce solution with product catalog, shopping cart, payment integration, and admin dashboard. Built with React, Express.js, and Stripe API.",
+    url: "https://github.com/Osmi-Bytes/EcommercePlatform",
+  },
+  {
+    title: "Mobile-First Recipe App",
+    description:
+      "A progressive web app for recipe discovery and meal planning. Features offline functionality, ingredient search, and social sharing capabilities.",
+    url: "https://github.com/Osmi-Bytes/RecipeApp",
+  },
+  {
+    title: "Data Visualization Dashboard",
+    description:
+      "An interactive dashboard for data visualization using D3.js and React. Displays complex datasets with charts, graphs, and filtering capabilities.",
+    url: "https://github.com/Osmi-Bytes/DataVizDashboard",
   },
 ];
 
